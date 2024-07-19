@@ -29,7 +29,7 @@ liguagens principais HTML e CSS, não sei nada aprofundado sobre o assunto
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
 - HTML é a linguagem que dá vida à internet. Quando navegamos em páginas da web, é o código HTML que está por trás de cada elemento visual que vemos na tela.
-- Aprendi diversas tags para a construção da estrutura de páginas na internet, como <body>, <main>, <section>, <div>, <link>, <a>, <p>, <h1>, <h2>, entre outras.
+- Aprendi diversas tags para a construção da estrutura de páginas na internet, como (body), (main), (section), (div), (link), (a), (p), (h1), (h2), entre outras.
 - A utilizar o CSS (Cascading Style Sheets) para atribuir estilo aos elementos escritos em HTML.
 - Criação de formulário responsivos.
 - Como organizar os codigos no CSS e HTML.
